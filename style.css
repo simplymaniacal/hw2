@@ -9,3 +9,7 @@
 .main{
   margin: auto;
 }
+.pose{
+  position: relative
+  bottom 10px;
+}
